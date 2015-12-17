@@ -5,7 +5,7 @@ body {
 }
 
 .name {
-  color: #DF723E;
+  color: #38667D;
   display: inline-block;
   font-size: 1.4em;
   letter-spacing: 3px;
@@ -35,7 +35,7 @@ body {
   text-decoration: none;
 }
   .links:hover {
-    color: #DF723E;
+    color: #38667D;
   }
 
 .links img {
@@ -45,7 +45,7 @@ body {
 }
 
 .primary-titles {
-  color: #DF723E;
+  color: #38667D;
   display: inline-block;
   font-size: .9em;
   letter-spacing: 1px;
@@ -65,7 +65,7 @@ body {
 }
 
 .category-headers {
-  color: #DF723E;
+  color: #38667D;
   font-size: .9em;
   letter-spacing: 2px;
   margin-top: 3em;
@@ -76,7 +76,7 @@ body {
 .category-details {
   color: #808284;
   font-size: .9em;
-  font-style: italic;
+  font-style: normal;
   line-height: 1.4em;
   margin-bottom: 1%;
   margin-left: 2%;
@@ -92,7 +92,8 @@ body {
   margin-left: 2%;
   margin-right: 7%;
   margin-top: 1em;
-}
+  text-align: justify;
+  }
 
 .category-description {
   color: #808284;
@@ -102,6 +103,7 @@ body {
   margin-left: 2%;
   margin-right: 7%;
   margin-top: .01em;
+  text-align: justify;
 }
 
 hr {
